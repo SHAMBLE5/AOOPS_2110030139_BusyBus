@@ -6,9 +6,58 @@ TEAM MEMBERS<br />
 3. 2110030092-Krishna<br />
 4. 2110030134-Harish<br /><br />
 
-DESCRIPTION<br />
-#Railway-Reservation-System<br />
--> The railway reservation system facilitates the passengers to enquiry about the trains available on the basis of source and destination, booking and cancellation of tickets, enquiry about the status of the booked ticket, etc.<br />
--> The aim of case study is to design and develop a data base maintaining records of different trains, train status and passengers.<br />
--> This project contains introduction to the railways reservation system. It is the computerized system of reserving the seats of train seats in advance.<br />
--> It is mainly used for a long route. Online reservation has made the process for the reservation of seats very much easier than ever before.
+
+#TrainBooking Website<br />
+Online Train Information and Reservation<br />
+This Website is built for following purpose:-<br />
+
+View Trains Schedule<br />
+Search Trains<br />
+Seat Availability<br />
+Train Timings<br />
+Fare Enquiry<br />
+Trains Between Stations<br />
+Fare Enquiry<br />
+Booking seats online.<br />
+Login and Logout Security<br />
+The Admin have the following access to this website:-<br />
+
+Login<br />
+Add Trains<br />
+Update Trains<br />
+Remove or cancle Trains<br />
+View Trains<br />
+Profile Edit<br />
+Logout<br />
+The Users have the following Access:-<br />
+
+Register<br />
+Login<br />
+View Trains<br />
+Check Seat Availability<br />
+Search Trains<br />
+Train Avaiablity and Fare Between Stations<br />
+Books Tickets<br />
+View Profile<br />
+Update Profile<br />
+Change Password<br />
+Logout<br />
+
+Technologies used:-<br />
+
+Front-End Development:<br />
+Html<br />
+Css<br />
+Javascript<br />
+
+Back-End Development<br />
+Java<br />
+Oracle ( SQL )<br />
+
+==== Software And Tools Required ======<br />
+: Oracle SQL<br />
+: Eclipse EE<br />
+
+
+
+
