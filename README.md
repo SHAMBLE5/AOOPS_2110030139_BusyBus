@@ -1,6 +1,6 @@
 # Destination Station
 
-TrainBooking Website<br \>
+TrainBooking Website<br />
 Online Train Information and Reservation
 This Website is built for following purpose:-
 
