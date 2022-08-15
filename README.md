@@ -1,4 +1,4 @@
-# HopOn-HopOff
+# Destination Station
 
 TEAM MEMBERS<br />
 1. 2110030139-Vishnu<br />
@@ -20,8 +20,8 @@ Trains Between Stations<br />
 Fare Enquiry<br />
 Booking seats online.<br />
 Login and Logout Security<br />
-The Admin have the following access to this website:-<br />
 
+The Admin have the following access to this website:-<br />
 Login<br />
 Add Trains<br />
 Update Trains<br />
@@ -29,8 +29,8 @@ Remove or cancle Trains<br />
 View Trains<br />
 Profile Edit<br />
 Logout<br />
-The Users have the following Access:-<br />
 
+The Users have the following Access:-<br />
 Register<br />
 Login<br />
 View Trains<br />
@@ -44,7 +44,6 @@ Change Password<br />
 Logout<br />
 
 Technologies used:-<br />
-
 Front-End Development:<br />
 Html<br />
 Css<br />
