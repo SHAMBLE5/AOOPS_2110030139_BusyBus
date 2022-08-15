@@ -1,54 +1,55 @@
 # Destination Station
 
 TrainBooking Website<br />
-Online Train Information and Reservation
-This Website is built for following purpose:-
+Online Train Information and Reservation<br />
+This Website is built for following purpose:-<br />
 
-View Trains Schedule
-Search Trains
-Seat Availability
-Train Timings
-Fare Enquiry
-Trains Between Stations
-Fare Enquiry
-Booking seats online.
-Login and Logout Security
-The Admin have the following access to this website:-
+View Trains Schedule<br />
+Search Trains<br />
+Seat Availability<br />
+Train Timings<br />
+Fare Enquiry<br />
+Trains Between Stations<br />
+Fare Enquiry<br />
+Booking seats online.<br />
+Login and Logout Security<br />
+The Admin have the following access to this website:-<br />
 
-Login
-Add Trains
-Update Trains
-Remove or cancle Trains
-View Trains
-Profile Edit
-Logout
-The Users have the following Access:-
+Login<br />
+Add Trains<br />
+Update Trains<br />
+Remove or cancle Trains<br />
+View Trains<br />
+Profile Edit<br />
+Logout<br />
+The Users have the following Access:-<br />
 
-Register
-Login
-View Trains
-Check Seat Availability
-Search Trains
-Train Avaiablity and Fare Between Stations
-Books Tickets
-View Profile
-Update Profile
-Change Password
-Logout
-Technologies used:-
-Front-End Development:
-Html
-Css
-Javascript
-Back-End Development
-Java
-JDBC
-Servlet
-Oracle ( SQL )
-==== Software And Tools Required ======
-: Oracle SQL
-: Eclipse EE
-: Java JDK 8+
-: Tomcat v8.0
+Register<br />
+Login<br />
+View Trains<br />
+Check Seat Availability<br />
+Search Trains<br />
+Train Avaiablity and Fare Between Stations<br />
+Books Tickets<br />
+View Profile<br />
+Update Profile<br />
+Change Password<br />
+Logout<br />
+
+Technologies used:-<br />
+
+Front-End Development:<br />
+Html<br />
+Css<br />
+Javascript<br />
+
+Back-End Development<br />
+Java<br />
+Oracle ( SQL )<br />
+
+==== Software And Tools Required ======<br />
+: Oracle SQL<br />
+: Eclipse EE<br />
+
 
 
