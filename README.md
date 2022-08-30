@@ -36,12 +36,6 @@ Online Train Information and Reservation<br />
 - Change Password<br />
 - Logout<br />
 
-## Technologies used:-<br />
-### Front-End Development:<br />
-- Html<br />
-- Css<br />
-- Javascript<br />
-
 ### Back-End Development<br />
 - Java<br />
 - Oracle ( SQL )<br />
