@@ -1,48 +1,82 @@
-# Destination Station
+# zealous-price-4318
 
-Online Train Information and Reservation<br />
+![Logo](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/logo.png?raw=true)
+
+# Bus Ticket Reservation System
+
+> A bus ticket reservation system is an java application designed to provide customers with a personalized easy-to-utilize user experience for booking and purchasing tickets online. It stores customers' personal data records, scheduled routes, frequent trips, drop points, and other information.
+
+> Bus ticket reservation system is a console based application.
+
+> Build Bus ticket reservation system application during the construct week at [Masai School](https://masaischool.com/). Completed the project within six days.
+
+# 👉 [Click here](https://drive.google.com/file/d/19cj65rsSFDdzXQj6clvHNBgVTaLUvhZk/view?usp=sharing) to go through detail explanation of this application 
+
+# Features
+
+- Administrator can login his username and password
+- Administrator can provide details like Bus Name, Bus Route, Bus Type –AC/non-AC, seats, departure time and arrival time
+- Administrator can provide the confirmation of the seat to the Customer
+- Customer can register by giving all the details
+- Customer can login his username and password
+- Customer can book ticket by selecting Source and destination
+- Customer can cancel ticket
+
+# Technology used 
+
+- Java
+- MySQL
+- Git & GitHub
+
+# Lessons Learned
+
+- Gain excessive knowledge on application of Java and MySQL.
+- Enjoyed the process of learning and creating the application.
+
+# Overview of my work
+
+## **ER Diagram**
+*Customer and Bus has many to many relationship*
+</br>
+*Booking table as linking between Customer and Bus*
+</br>
+![Er diagram](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/ProjectDetails/ER%20diagram/ERdiagram.png?raw=true)
+
+## **Administrator Login** 
+*Admin can login by using username (Admin) and password (1234)*
+</br>
+![Admin login](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Adminlogin.png?raw=true)
 
 
-## This Website is built for following purpose:-<br />
-- View Trains Schedule<br />
-- Search Trains<br />
-- Seat Availability<br />
-- Train Timings<br />
-- Fare Enquiry<br />
-- Trains Between Stations<br />
-- Fare Enquiry<br />
-- Booking seats online.<br />
-- Login and Logout Security<br />
+## **Customer Login** 
+*Customer can signup first if not registered earlier*
+</br>
+*Customer can login with earlier provided username and password*
+</br>
+![Customer login](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Customerlogin.png?raw=true)
 
-## The Admin have the following access to this website:-<br />
-- Login<br />
-- Add Trains<br />
-- Update Trains<br />
-- Remove or cancle Trains<br />
-- View Trains<br />
-- Profile Edit<br />
-- Logout<br />
+## **Back Functionality** 
+*User can go back to the previous option*
+</br>
+![Back functionality](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/BackFunctionality.png?raw=true)
 
-## The Users have the following Access:-<br />
-- Register<br />
-- Login<br />
-- View Trains<br />
-- Check Seat Availability<br />
-- Search Trains<br />
-- Train Avaiablity and Fare Between Stations<br />
-- Books Tickets<br />
-- View Profile<br />
-- Update Profile<br />
-- Change Password<br />
-- Logout<br />
+## **Exception Handling**
+*If user provides wrong input, the appropriate error message will appear*
+</br>
+![Exception Handling](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/Exceptional%20Handling.png?raw=true)
 
-### Front-End Development<br />
-- JSP<br />
+## **Book Ticket Functionality**
+*Customer can't book same day or previous day ticket*
+</br>
+![Book Ticket Functionality](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/bookTicket.png?raw=true)
 
-### Back-End Development<br />
-- Java<br />
-- Oracle ( SQL )<br />
+# Feedback
+> Valuable feedback will be appreciated.
+> You can reach out to me via below medium.
 
-## ==== Software And Tools Required ======<br />
-: Oracle SQL<br />
-: Eclipse EE<br />
+- [Email](mayurisamanta@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mayuri-samanta/)
+# Contributor
+#### Mayuri Samanta
+>[GitHub](https://github.com/mayurisamanta)
+
